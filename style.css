@@ -1,0 +1,27 @@
+img {
+    height: 150px;
+  }
+  
+  .description {
+    font-size: 20px;
+  }
+  
+  
+  #cook-time {
+    font-weight: bold;
+  }
+  
+  parent-element child-element {
+    
+      list-style: square; 
+  }
+  
+  .description {
+    color: SeaGreen;
+    
+  }
+  
+  
+  
+  
+  
