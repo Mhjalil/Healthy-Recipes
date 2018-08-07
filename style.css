@@ -11,17 +11,19 @@ img {
     font-weight: bold;
   }
   
-  parent-element child-element {
-    
+  .ingredients li {
       list-style: square; 
   }
   
-  .description {
-    color: SeaGreen;
-    
+  p.time {
+    color: gray;
   }
   
+  .external-link {
+    color: SeaGreen;
+  }
   
-  
-  
+  h1,h2,p,li {
+    font-family: Helvetica;
+  }
   
